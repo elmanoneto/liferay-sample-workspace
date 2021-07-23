@@ -1,5 +1,5 @@
 /**
- * File to create a new sample.
+ * File to create a new sample
 */
 
 import React, { useState } from 'react'
